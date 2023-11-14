@@ -1,0 +1,15 @@
+node > let a = 5
+> let b = a
+> a = 8
+> a
+= 8
+
+> b
+= 5
+node.js
+let a = 5
+let b = a
+a=8
+a
+b
+node 
